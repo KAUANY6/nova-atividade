@@ -1,1 +1,7 @@
-# nova-atividade
+# NOVA Atividade
+GIT E GITHUB
+CLONAR REPOSITORIO
+README
+
+# AUTORA
+KAUANY.G
